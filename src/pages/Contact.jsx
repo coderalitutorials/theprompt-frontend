@@ -29,9 +29,9 @@ const contactDetails = [
   {
     icon: Mail,
     label: "Email Us",
-    value: "info@theprompt.co.uk",
+    value: "info@promptpestcontrol.co.uk",
     description: "Send your pest control enquiry by email.",
-    href: "mailto:info@theprompt.co.uk",
+    href: "mailto:info@promptpestcontrol.co.uk",
   },
   {
     icon: MapPin,
